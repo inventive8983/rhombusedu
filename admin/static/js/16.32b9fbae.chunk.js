@@ -1,0 +1,2 @@
+(this.webpackJsonprhombusedu=this.webpackJsonprhombusedu||[]).push([[16],{392:function(e,n,t){"use strict";t.r(n);var u=t(0),o=t.n(u);n.default=function(){return o.a.createElement("div",null,"Home component works!")}}}]);
+//# sourceMappingURL=16.32b9fbae.chunk.js.map
